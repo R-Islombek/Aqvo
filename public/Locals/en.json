@@ -7,5 +7,13 @@
   "header": {
     "title": "Natural Products! Quality and Trust!",
     "text": "AQVO - The leading brand in Uzbekistan that embodies quality and authenticity, offering dairy products with innovative taste and modern design."
+  },
+   "modal": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "phone": "Your Phone Number",
+    "email": "Your Email Address",
+    "message": "Your Message",
+    "submit": "Send"
   }
 }

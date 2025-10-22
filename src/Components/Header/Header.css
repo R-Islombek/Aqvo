@@ -1,0 +1,36 @@
+.header {
+    height: 100vh;
+    padding-top: 100px;
+    background: #991B1B;
+}
+
+.header__title {
+    font-size: 70px;
+    font-weight: 800;
+    font-family: sans-serif;
+    font-style: Medium;
+    font-size: 160px;
+    line-height: 345px;
+    letter-spacing: 0%;
+    color: #fff;
+    vertical-align: middle;
+    text-transform: uppercase;
+}
+
+.header__box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__text {
+    max-width: 350px;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #fff;
+    font-family: sans-serif;
+}
